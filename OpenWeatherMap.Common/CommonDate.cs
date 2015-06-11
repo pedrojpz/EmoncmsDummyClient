@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace OpenWeatherMap.Common
-{
+{ 
     public static class CommonDate
     {
         public static DateTime UnixTimeStampToDateTime(ulong unixTimeStamp)
